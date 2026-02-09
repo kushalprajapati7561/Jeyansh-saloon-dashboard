@@ -1,0 +1,7 @@
+{
+  "name": "Lumière Salon & Spa",
+  "description": "A premium hair salon booking platform with real-time scheduling, OTP verification simulation, and an integrated admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
